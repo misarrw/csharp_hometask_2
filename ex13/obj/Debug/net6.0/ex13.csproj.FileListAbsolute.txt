@@ -1,0 +1,15 @@
+/Users/sofia/Desktop/c# hometask 2/ex13/obj/Debug/net6.0/ex13.csproj.AssemblyReference.cache
+/Users/sofia/Desktop/c# hometask 2/ex13/obj/Debug/net6.0/ex13.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sofia/Desktop/c# hometask 2/ex13/obj/Debug/net6.0/ex13.AssemblyInfoInputs.cache
+/Users/sofia/Desktop/c# hometask 2/ex13/obj/Debug/net6.0/ex13.AssemblyInfo.cs
+/Users/sofia/Desktop/c# hometask 2/ex13/obj/Debug/net6.0/ex13.csproj.CoreCompileInputs.cache
+/Users/sofia/Desktop/c# hometask 2/ex13/bin/Debug/net6.0/ex13
+/Users/sofia/Desktop/c# hometask 2/ex13/bin/Debug/net6.0/ex13.deps.json
+/Users/sofia/Desktop/c# hometask 2/ex13/bin/Debug/net6.0/ex13.runtimeconfig.json
+/Users/sofia/Desktop/c# hometask 2/ex13/bin/Debug/net6.0/ex13.dll
+/Users/sofia/Desktop/c# hometask 2/ex13/bin/Debug/net6.0/ex13.pdb
+/Users/sofia/Desktop/c# hometask 2/ex13/obj/Debug/net6.0/ex13.dll
+/Users/sofia/Desktop/c# hometask 2/ex13/obj/Debug/net6.0/refint/ex13.dll
+/Users/sofia/Desktop/c# hometask 2/ex13/obj/Debug/net6.0/ex13.pdb
+/Users/sofia/Desktop/c# hometask 2/ex13/obj/Debug/net6.0/ex13.genruntimeconfig.cache
+/Users/sofia/Desktop/c# hometask 2/ex13/obj/Debug/net6.0/ref/ex13.dll
