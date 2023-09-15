@@ -1,0 +1,15 @@
+/Users/sofia/Desktop/c# hometask 2/ex10/bin/Debug/net6.0/ex10
+/Users/sofia/Desktop/c# hometask 2/ex10/bin/Debug/net6.0/ex10.deps.json
+/Users/sofia/Desktop/c# hometask 2/ex10/bin/Debug/net6.0/ex10.runtimeconfig.json
+/Users/sofia/Desktop/c# hometask 2/ex10/bin/Debug/net6.0/ex10.dll
+/Users/sofia/Desktop/c# hometask 2/ex10/bin/Debug/net6.0/ex10.pdb
+/Users/sofia/Desktop/c# hometask 2/ex10/obj/Debug/net6.0/ex10.csproj.AssemblyReference.cache
+/Users/sofia/Desktop/c# hometask 2/ex10/obj/Debug/net6.0/ex10.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sofia/Desktop/c# hometask 2/ex10/obj/Debug/net6.0/ex10.AssemblyInfoInputs.cache
+/Users/sofia/Desktop/c# hometask 2/ex10/obj/Debug/net6.0/ex10.AssemblyInfo.cs
+/Users/sofia/Desktop/c# hometask 2/ex10/obj/Debug/net6.0/ex10.csproj.CoreCompileInputs.cache
+/Users/sofia/Desktop/c# hometask 2/ex10/obj/Debug/net6.0/ex10.dll
+/Users/sofia/Desktop/c# hometask 2/ex10/obj/Debug/net6.0/refint/ex10.dll
+/Users/sofia/Desktop/c# hometask 2/ex10/obj/Debug/net6.0/ex10.pdb
+/Users/sofia/Desktop/c# hometask 2/ex10/obj/Debug/net6.0/ex10.genruntimeconfig.cache
+/Users/sofia/Desktop/c# hometask 2/ex10/obj/Debug/net6.0/ref/ex10.dll
